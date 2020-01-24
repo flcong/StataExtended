@@ -23,6 +23,6 @@ I do not choose `Ctrl+Shift+g` or `Ctrl+l` since the former is inconvenient and 
 The usage is simple:
 
 1. Select the (local or global) name that you want to change, e.g. `foo`. You can select multiple names.
-2. If you press`Ctrl+g`,  all `` `foo'`` will be changed to `${foo}`; if you press ``Ctrl+Shift+l``, all `${foo}` will be changed to `` `foo'`` .
+2. If you press `Ctrl+g`,  all `` `foo'`` will be changed to `${foo}`; if you press ``Ctrl+Shift+l``, all `${foo}` will be changed to `` `foo'`` .
 
 More features to be added later.
