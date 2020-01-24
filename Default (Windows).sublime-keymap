@@ -1,0 +1,8 @@
+[
+    { 
+        "keys": ["ctrl+g"], "command": "ltog"
+    },
+    { 
+        "keys": ["ctrl+shift+l"], "command": "gtol"
+    }
+]
