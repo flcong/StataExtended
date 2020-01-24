@@ -13,7 +13,7 @@ This package contains functions to facilitate Stata coding, to be used together 
 
 ### Change substitution between local and global
 
-In Stata, local and global names are referenced differently: ```local'`` and `${global}` (or `$global`). Sometimes, you may want to change a local into a global. As a result, you have to change every occurrence of  ``foo'` into `${foo}`. Sometimes, you may also want to change a global in to a local. This package provides the following two shortcuts to do this:
+In Stata, local and global names are referenced differently: `` `local'`` and `${global}` (or `$global`). Sometimes, you may want to change a local into a global. As a result, you have to change every occurrence of  `` `foo'`` into `${foo}`. Sometimes, you may also want to change a global in to a local. This package provides the following two shortcuts to do this:
 
 * `Ctrl+g`: change from local to global;
 * `Ctrl+Shift+l`: change from global to local;
